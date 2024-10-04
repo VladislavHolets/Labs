@@ -9,5 +9,7 @@ int main(void){
 	test.longIntegerValue=256;
 	//test.integerValue=;
 	cout<<static_cast<int>(test.bytes[1]);
-	return 0;
+	cout<<"Changes for git test";	
+return 0;
+	
 }
